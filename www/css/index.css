@@ -113,3 +113,99 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+
+
+
+
+@font-face {
+  font-family: EngFont;
+  font-weight: normal;
+  src: url('EngFont.woff') format('woff');
+
+@font-face {
+  font-family: EngFont;
+  font-weight: normal;
+  src: url('EngFont.woff') format('woff');
+}
+
+@font-face {
+  font-family: QuranFont;
+  font-weight: normal;
+  src: url('QuranFont.woff') format('woff');
+}
+@font-face {
+  font-family: QuranFont2;
+  font-weight: normal;
+  src: url('QuranFont.ttf') format('truetype');
+}
+@font-face {
+  font-family: AppFont;
+  font-weight: normal;
+  src: url('AppFont.ttf') format('truetype');
+}
+@font-face {
+  font-family: AppFont;
+  font-weight: bold;
+  src: url('AppFontBd.ttf') format('truetype');
+}
+
+body {
+    font-size: 20px;
+}
+
+.farsi {
+    font-family: AppFont;
+}
+.arabic {
+    font-family: QuranFont;
+}
+.arabic2 {
+    font-family: QuranFont2;
+}
+.english {
+    font-family: EngFont;
+}
+
+}
+
+@font-face {
+  font-family: QuranFont;
+  font-weight: normal;
+  src: url('QuranFont.woff') format('woff');
+}
+@font-face {
+  font-family: QuranFont2;
+  font-weight: normal;
+  src: url('QuranFont.ttf') format('truetype');
+}
+@font-face {
+  font-family: AppFont;
+  font-weight: normal;
+  src: url('AppFont.ttf') format('truetype');
+}
+@font-face {
+  font-family: AppFont;
+  font-weight: bold;
+  src: url('AppFontBd.ttf') format('truetype');
+}
+
+body {
+    font-size: 20px;
+}
+
+.farsi {
+    font-family: AppFont;
+}
+.arabic {
+    font-family: QuranFont;
+}
+.arabic2 {
+    font-family: QuranFont2;
+}
+.english {
+    font-family: EngFont;
+}
+
+
+
